@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/2237a/static/css/main.3e3f5e47.css",
-    "main.js": "/2237a/static/js/main.6b736c1f.js",
-    "static/media/banner.jpg": "/2237a/static/media/banner.7786a3acc64016d031ca.jpg",
-    "static/media/atauni_logo.png": "/2237a/static/media/atauni_logo.710ad81884f614dd2ac9.png",
-    "static/media/msozbilir.jpg": "/2237a/static/media/msozbilir.786dda663a0c79b5d09b.jpg",
-    "static/media/TÜBİTAK_logo.svg": "/2237a/static/media/TÜBİTAK_logo.0fedb3980fce690993058ac5515077d6.svg",
-    "index.html": "/2237a/index.html",
-    "main.3e3f5e47.css.map": "/2237a/static/css/main.3e3f5e47.css.map",
-    "main.6b736c1f.js.map": "/2237a/static/js/main.6b736c1f.js.map"
+    "main.css": "/static/css/main.3e3f5e47.css",
+    "main.js": "/static/js/main.bf854445.js",
+    "static/media/banner.jpg": "/static/media/banner.7786a3acc64016d031ca.jpg",
+    "static/media/atauni_logo.png": "/static/media/atauni_logo.710ad81884f614dd2ac9.png",
+    "static/media/msozbilir.jpg": "/static/media/msozbilir.786dda663a0c79b5d09b.jpg",
+    "static/media/TÜBİTAK_logo.svg": "/static/media/TÜBİTAK_logo.0fedb3980fce690993058ac5515077d6.svg",
+    "index.html": "/index.html",
+    "main.3e3f5e47.css.map": "/static/css/main.3e3f5e47.css.map",
+    "main.bf854445.js.map": "/static/js/main.bf854445.js.map"
   },
   "entrypoints": [
     "static/css/main.3e3f5e47.css",
-    "static/js/main.6b736c1f.js"
+    "static/js/main.bf854445.js"
   ]
 }

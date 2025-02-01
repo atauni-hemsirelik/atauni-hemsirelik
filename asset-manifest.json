@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.809cbab8.css",
+    "main.css": "/static/css/main.d25a28cc.css",
     "main.js": "/static/js/main.a019aaec.js",
     "static/media/banner.jpg": "/static/media/banner.1fd778e272258b2b7d7e.jpg",
     "static/media/atauni_logo.png": "/static/media/atauni_logo.710ad81884f614dd2ac9.png",
@@ -13,11 +13,11 @@
     "static/media/sehrinaz_polat.jpg": "/static/media/sehrinaz_polat.31b41d228c958844d925.jpg",
     "static/media/TÜBİTAK_logo.svg": "/static/media/TÜBİTAK_logo.0fedb3980fce690993058ac5515077d6.svg",
     "index.html": "/index.html",
-    "main.809cbab8.css.map": "/static/css/main.809cbab8.css.map",
+    "main.d25a28cc.css.map": "/static/css/main.d25a28cc.css.map",
     "main.a019aaec.js.map": "/static/js/main.a019aaec.js.map"
   },
   "entrypoints": [
-    "static/css/main.809cbab8.css",
+    "static/css/main.d25a28cc.css",
     "static/js/main.a019aaec.js"
   ]
 }

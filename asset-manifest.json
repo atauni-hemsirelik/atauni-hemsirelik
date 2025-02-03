@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e8990895.css",
-    "main.js": "/static/js/main.a019aaec.js",
-    "static/media/banner.jpg": "/static/media/banner.1fd778e272258b2b7d7e.jpg",
+    "main.js": "/static/js/main.84d6e3fa.js",
+    "static/media/banner.jpg": "/static/media/banner.1a94f9ed085861954f31.jpg",
     "static/media/atauni_logo.png": "/static/media/atauni_logo.710ad81884f614dd2ac9.png",
     "static/media/cem_senol.jpg": "/static/media/cem_senol.1b6aadac4c1426d12b66.jpg",
     "static/media/bilgehan_savasci_temiz.jpg": "/static/media/bilgehan_savasci_temiz.0eadc5c7f2eff2e8168d.jpg",
@@ -14,10 +14,10 @@
     "static/media/TÜBİTAK_logo.svg": "/static/media/TÜBİTAK_logo.0fedb3980fce690993058ac5515077d6.svg",
     "index.html": "/index.html",
     "main.e8990895.css.map": "/static/css/main.e8990895.css.map",
-    "main.a019aaec.js.map": "/static/js/main.a019aaec.js.map"
+    "main.84d6e3fa.js.map": "/static/js/main.84d6e3fa.js.map"
   },
   "entrypoints": [
     "static/css/main.e8990895.css",
-    "static/js/main.a019aaec.js"
+    "static/js/main.84d6e3fa.js"
   ]
 }

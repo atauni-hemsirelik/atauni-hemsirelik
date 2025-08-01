@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8990895.css",
-    "main.js": "/static/js/main.a1c76356.js",
+    "main.css": "/static/css/main.60c893aa.css",
+    "main.js": "/static/js/main.e51dc460.js",
+    "static/media/banner_without_tubitak_logo_01.08.2025.jpg": "/static/media/banner_without_tubitak_logo_01.08.2025.3381a6332dfa49a267a3.jpg",
     "static/media/banner.jpg": "/static/media/banner.1a94f9ed085861954f31.jpg",
-    "static/media/banner_without_tubitak_logo.jpg": "/static/media/banner_without_tubitak_logo.db106a6febb809ca7f17.jpg",
     "static/media/atauni_logo.png": "/static/media/atauni_logo.710ad81884f614dd2ac9.png",
     "static/media/cem_senol.jpg": "/static/media/cem_senol.1b6aadac4c1426d12b66.jpg",
     "static/media/bilgehan_savasci_temiz.jpg": "/static/media/bilgehan_savasci_temiz.0eadc5c7f2eff2e8168d.jpg",
@@ -14,11 +14,11 @@
     "static/media/sehrinaz_polat.jpg": "/static/media/sehrinaz_polat.31b41d228c958844d925.jpg",
     "static/media/TÜBİTAK_logo.svg": "/static/media/TÜBİTAK_logo.0fedb3980fce690993058ac5515077d6.svg",
     "index.html": "/index.html",
-    "main.e8990895.css.map": "/static/css/main.e8990895.css.map",
-    "main.a1c76356.js.map": "/static/js/main.a1c76356.js.map"
+    "main.60c893aa.css.map": "/static/css/main.60c893aa.css.map",
+    "main.e51dc460.js.map": "/static/js/main.e51dc460.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8990895.css",
-    "static/js/main.a1c76356.js"
+    "static/css/main.60c893aa.css",
+    "static/js/main.e51dc460.js"
   ]
 }
